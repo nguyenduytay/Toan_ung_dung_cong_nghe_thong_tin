@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Chuong2_vietchuongtrinhtinhmatrannghichdao.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Chuong2_bai1.cpp
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_vietchuongtrinhtinhmatrannghichdao\Chuong2_bai1.cpp(208,13): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+  Chuong2_vietchuongtrinhtinhmatrannghichdao.vcxproj -> C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\x64\Debug\Chuong2_bai1.exe
