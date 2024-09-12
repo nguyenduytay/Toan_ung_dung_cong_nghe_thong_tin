@@ -1,0 +1,11 @@
+﻿  Chuong2_bai4.cpp
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(11,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(12,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(13,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(31,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(56,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(87,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(104,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(176,17): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai4\Chuong2_bai4.cpp(183,21): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+  Chuong2_bai4.vcxproj -> C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\x64\Debug\Chuong2_bai4.exe

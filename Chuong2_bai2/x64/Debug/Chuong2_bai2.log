@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Chuong2_bai2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Chuong2_bai3.cpp
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(12,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(55,21): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(55,21): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(81,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(158,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(159,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(160,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(179,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(204,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(235,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\Chuong2_bai2\Chuong2_bai3.cpp(315,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Chuong2_bai2.vcxproj -> C:\Users\NGUYEN DUY TAY\source\repos\Toan_ung_dung\x64\Debug\Chuong2_bai3.exe
